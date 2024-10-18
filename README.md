@@ -4,7 +4,7 @@
 💞️ I want to collaborate on innovative projects, especially those that blend data science with real-world applications.
 📫 How to reach me: Connect with me on LinkedIn at https://www.linkedin.com/in/alexandra-chernysh or email me at alexsandrachern@gmail.com.
 😄 Pronouns: She/Her
-⚡ Fun fact: I love exploring how different cultures approach data science and have a background in economics, mathematics, and construction!
+⚡ Fun fact: I love exploring how different cultures approach data science and have an economics, mathematics, and construction engineering background!
 
 <!---
 AlexaChernysh/AlexaChernysh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
